@@ -24,4 +24,11 @@ Please note, if you do not have a GPU in your computer, you should comment the f
 If you have a GPU but do not have multiple GPUs in your system, please comment like:
 - punet_classifier.py => line: 75
 
-I have not completed training, hence my model has an MAP of only 62% whereas the original paper claims to have map of 72.51%.
+If you use the code for scientific purposes, please cite
+```
+@article{Boudraa2021,
+   booktitle = {Pattern Recognition Letters},
+   author = {Boudraa O., Michelucci D., and Hidouci W.K.},
+   title = {{PUNet: Novel and efficient deep neural network architecture for handwritten documents word spotting}},
+   year = {2021}
+}
