@@ -1,6 +1,6 @@
 # PUNET
 Hi Thank you for viewing this Project.
-![alt text](https://github.com/OmarBoudraa/PUNET/images/punet.png)
+![alt text](https://github.com/OmarBoudraa/PUNET/tree/main/images/punet.png)
 
 I shall write a few steps down for you to run this project in your machine.
 Please note that I shall consider that you have git, pip3, and virtualenv.
