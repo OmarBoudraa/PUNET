@@ -12,10 +12,10 @@ Steps:
 	- `pip3 install opencv-python`
 	- `pip3 install tensorflow-gpu` (or if you do not have a GPU then, `pip3 install tensorflow`)
 	- `pip3 install keras`
-* Now, Clone this repository using `git clone https://github.com/OmarBoudraa/punet`
-* Go to the directory of project: `cd punet`
-* Now, untar your dataset (IAM, ESP or others) present in `images` & `xml` folders using:
-	In this example, we make use of famous GW dataset
+* Now, Clone this repository using `git clone https://github.com/OmarBoudraa/PUNET`
+* Go to the directory of project: `cd PUNET`
+* Now, untar your dataset (IAM, ESP or others) present in `images` & `xml` folders|
+	In this example, we make use of famous GW dataset.
 * We are now ready to execute the model. Execute: `python punet.py`
 
 Please note, if you do not have a GPU in your computer, you should comment the following lines:
