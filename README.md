@@ -26,7 +26,7 @@ If you have a GPU but do not have multiple GPUs in your system, please comment l
 
 If you use the code for scientific purposes, please cite
 ```
-@article{Boudraa2021,
+@article{BoudraaOPRL2021,
    booktitle = {Pattern Recognition Letters},
    author = {Boudraa O., Michelucci D., and Hidouci W.K.},
    title = {{PUNet: Novel and efficient deep neural network architecture for handwritten documents word spotting}},
