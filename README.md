@@ -5,7 +5,7 @@ I shall write a few steps down for you to run this project in your machine.
 Please note that I shall consider that you have git, pip3, and virtualenv.
 
 Steps:
-* Setup a new virtualenv using: `virtualenv -p python3 punet_keras`
+* Setup a new virtualenv using: `virtualenv -p python3 punet`
 * Install some essential packages using:
 	- `pip3 install numpy`
 	- `pip3 install pandas`
