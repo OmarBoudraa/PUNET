@@ -14,7 +14,7 @@ Steps:
 	- `pip3 install keras`
 * Now, Clone this repository using `git clone https://github.com/OmarBoudraa/PUNET`
 * Go to the directory of project: `cd PUNET`
-* Now, untar your dataset (IAM, ESP or others) present in `images` & `xml` folders|
+* Now, untar your dataset (IAM, ESP or others) in `images` & `xml` folders |
 	In this example, we make use of famous GW dataset.
 * We are now ready to execute the model. Execute: `python punet.py`
 
